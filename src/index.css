@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    overflow-x: hidden;
+    background: #e4e2dc;
+
+}
+
+.nav_editor {
+    color: rgb(2, 131, 39);
+    font-size: 25px;
+    font-style: italic;
+}
+
+.nav_editor span {
+    font-size: 35px;
+    color: rgb(220, 15, 15);
+    font-weight: 500;
+    font-style: italic;
+
+}
